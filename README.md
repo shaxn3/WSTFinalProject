@@ -1,12 +1,9 @@
-Welcome to TaskTastic!
-TaskTastic is a fun and interactive To-Do List web application developed as the Final Requirement for the course WST 2 – Web Systems and Technologies 2. This project helps users organize their daily activities by allowing them to add, edit, and delete tasks, with clearly labeled status indicators and deadlines.
+BULSU MMS is a simple and functional Membership Management System developed as the Final Requirement for the course WST 2 – Web Systems and Technologies 2. This project allows users to manage student and organization members by performing basic CRUD operations—adding, viewing, editing, and deleting member records.
 
-It was created with HTML, CSS, JavaScript, and XML to demonstrate basic CRUD operations in a web-based environment, along with interactive features like colored status tags and dropdown menus.
+The system is built using HTML, CSS, JavaScript, and XML to provide a user-friendly interface for handling member data, with features such as searchable tables, responsive design, and data validation.
 
 Developed by:
 
-San Pedro, Shayne Mikhaela S.
-
-Valencia, Aira Joy
+San Pedro, Shayne Mikhaela S. Valencia, Aira Joy A.
 
 Section: BSIT – 3BG1
