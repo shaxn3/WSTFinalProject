@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<members>
+    <member><id>2025-001</id><name>shayne san pedro</name><email>shaynesanpedro15@gmail.com</email><course>BSIT</course></member>
+    <member><id>2025-002</id><name>shayne</name><email>shaynesanpedro15@gmail.com</email><course>BSIT</course></member>
+    <member><id>2025-003</id><name>celeste</name><email>mhaycel42@gmail.com</email><course>BSED</course></member>
+    <member><id>2025-004</id><name>yuan</name><email>yuan@vsrg</email><course>BSED</course></member>
+    <member><id>2025-005</id><name>aira</name><email>aira@fwr</email><course>CHTM</course></member>
+    <member><id>2025-006</id><name>marco de jesus</name><email>marco.bsit01@example.com</email><course>BSIT</course></member>
+    <member><id>2025-007</id><name>kylie dela pena</name><email>kylie.bsit02@example.com</email><course>BSIT</course></member>
+    <member><id>2025-008</id><name>kurt benedict</name><email>kurt.bsit03@example.com</email><course>BSIT</course></member>
+    <member><id>2025-009</id><name>john cruz</name><email>john.bsit04@example.com</email><course>BSIT</course></member>
+    <member><id>2025-010</id><name>alyssa reyes</name><email>alyssa.bsit05@example.com</email><course>BSIT</course></member>
+    <member><id>2025-011</id><name>michael tan</name><email>michael.bsit06@example.com</email><course>BSIT</course></member>
+    <member><id>2025-012</id><name>louise santos</name><email>louise.bsit07@example.com</email><course>BSIT</course></member>
+    <member><id>2025-013</id><name>danica flores</name><email>danica.bsit08@example.com</email><course>BSIT</course></member>
+    <member><id>2025-014</id><name>angelo lim</name><email>angelo.bsit09@example.com</email><course>BSIT</course></member>
+    <member><id>2025-015</id><name>jemma valdez</name><email>jemma.bsit10@example.com</email><course>BSIT</course></member>
+    <member><id>2025-016</id><name>sandra go</name><email>sandra.chtm01@example.com</email><course>CHTM</course></member>
+    <member><id>2025-017</id><name>ramon bautista</name><email>ramon.bsed03@example.com</email><course>BSED</course></member>
+    <member><id>2025-018</id><name>eliza mae</name><email>eliza.cafa01@example.com</email><course>CAFA</course></member>
+    <member><id>2025-019</id><name>victor manuel</name><email>victor.blis01@example.com</email><course>BLIS</course></member>
+    <member><id>2025-020</id><name>francis ignacio</name><email>francis.bsee01@example.com</email><course>BSEE</course></member>
+</members>
